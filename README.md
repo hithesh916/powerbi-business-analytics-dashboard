@@ -12,11 +12,7 @@ This project is an **interactive dashboard** created in Power BI to analyze sale
 - Analyze customer distribution by country.
 - Track sales quantity and trends over time.
 
- Dashboard Preview
-![Dashboard Screenshot](dashboard-preview.png)
-
- Download Project
-- [Download PBIX File](business-analytics-dashboard.pbix)
+ 
 
 ---
 
