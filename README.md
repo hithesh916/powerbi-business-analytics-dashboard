@@ -22,4 +22,4 @@ This project is an **interactive dashboard** created in Power BI to analyze sale
 
  Author
 Hithesh Sundararajan  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+🔗 [LinkedIn Profile]https://www.linkedin.com/in/hithesh-sundararajan/ 
